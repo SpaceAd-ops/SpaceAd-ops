@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">SpaceAd-ops</h1>
+<p align="center">Programmatic Advertising • AdOps • Automation</p>
 
-<!--
-**SpaceAd-ops/SpaceAd-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working in the programmatic advertising ecosystem.
+
+Focused on optimization, debugging, and automation of ad delivery processes across SSP/DSP environments.
+
+---
+
+## What I Do
+
+- Campaign monitoring and troubleshooting  
+- Debugging VAST, OpenRTB, tracking issues  
+- Automating repetitive AdOps workflows  
+- Traffic analysis and anomaly detection  
+- Building internal tools and scripts  
+
+---
+
+## Stack
+
+- Python  
+- JavaScript  
+- Google Sheets / Apps Script  
+- APIs & integrations  
+- Telegram bots  
