@@ -1,5 +1,4 @@
-<h1 align="center">SpaceAd-ops</h1>
-<p align="center">Programmatic Advertising • AdOps • Automation</p>
+![https://github.com/SpaceAd-ops](https://raw.githubusercontent.com/SpaceAd-ops/SpaceAd-ops/main/SpaceAd-ops-readme.png)
 
 ---
 
